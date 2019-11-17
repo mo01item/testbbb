@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+
+  {{ if .Content }}
+  <article class="article">
+  </article>
+  {{ end }}
+  <div class="archive">
+    {{ range (where .Data.Pages "Section" "!=" "").GroupByDate "2006" }}
+    {{ range .Pages }}
+    <article class="archive-item">
+      <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
+    </article>
+    {{ end }}
+    {{ end }}
+  </div>
+
+</main>
+
+{{ partial "footer.html" . }}

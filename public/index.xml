@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android手机就使用上网工具下载及教程</title>
+      <link>/md/an/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/md/an/</guid>
+      <description>点击下载使用(勿在微信中点入，请复制到浏览器打开)
+备用链接
+请花一分钟看一下下面教程，之后打开ssr App，选择从粘贴板导入方式添加。
+软件绿色无病毒，请放心安装使用
+1. 第一步：下载并安装 请点击上面链接下载后安装。安装完成后，找到SSR的图标（一个粉色纸飞机的图标，名称为 SSR）并点击运行。
+2.第二步：添加代理服务配置 打开ssr客户端后，出现如下配置界面。
+第三步：录入代理参数 使用 【从剪切板导入】 来操作。
+剪切板导入。 将客服发给你的导入码（找客服要），复制粘贴进来，点击确定,最后点击飞机图标或电图标开启</description>
+    </item>
+    
+    <item>
+      <title>IOS9以上（iphone、Ipad ）手机就使用上网工具下载及教程</title>
+      <link>/md/iso/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/md/iso/</guid>
+      <description>查看ios版本方法，在 设置&amp;gt;通用&amp;gt;关于本机 &amp;gt;版本
+务必看：因此应用在中国市场无法搜索到，需到大陆以外的应用市场下载，因此，我们需要用一个国外的appid进行登录进去，进行下载。下载完后切换为自己的appid回来。
+注意: 外区苹果ID：ID禁止登录ICloud！！！登陆App Store即可.
+搜索shadowrocket直接购买按提示操作即可，不会扣费！（下载好小火箭以后提示更新也别管，能用就行，小火箭不能用的时候再更新）
+账号：yeshengjishuzai@outlook.com密码：Ysjishuzai520（此ID已购买Shadowrocket等付费软件）
+下载好后立刻退出账号不然账号容易锁定或变砖一律不负责
+步骤如下:</description>
+    </item>
+    
+    <item>
+      <title>MAC苹果电脑使用上网工具下载及教程</title>
+      <link>/md/mac/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/md/mac/</guid>
+      <description>点击下载使用
+备用链接
+请花一分钟看一下下面教程。 软件绿色无病毒，请放心安装使用
+1. 安装$$客户端 2. 打开安装好的$$客户端 第三步：添加服务器参数 点击 客户端里的 扫描屏幕二维码 ，扫描上面的节点二维码 ,二维码找客服要第四步： 打开代理开关，设置完成。 注：第一次使用，请更新一下PAC，点击：从GFWList 更新 PAC</description>
+    </item>
+    
+    <item>
+      <title>Windows系统使用上网工具下载及教程</title>
+      <link>/md/pc/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/md/pc/</guid>
+      <description> 点击下载使用(勿在微信中点入，复制到浏览器打开) 软件绿色无病毒，请放心下载安装使用
+第一步：直接解压压缩包放在指定目录 第二步：使用。在桌面双击打开“锐速上网4.0”（若提示不支持，在使用“锐速上网2.0”版本），打开后再任务栏右下角，双击它， </description>
+    </item>
+    
+  </channel>
+</rss>

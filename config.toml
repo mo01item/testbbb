@@ -1,0 +1,10 @@
+baseurl = "/"
+languageCode = "zh-cn"
+title = ""
+theme = "hui"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[params]
