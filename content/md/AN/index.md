@@ -19,7 +19,9 @@ date: "2019-04-26"
 
 打开ssr客户端后，出现如下配置界面。
 
-![r1](./Android/r1.png)![r2](./Android/r2.png)
+![r1](./Android/r1.png)
+
+![r2](./Android/r2.png)
 
 ### 第三步：录入代理参数
 
@@ -31,9 +33,9 @@ date: "2019-04-26"
 
 ![r5](./Android/r5.png)
 
-![r6](Android/r6.png)
+![r6](./Android/r6.png)
 
-![r7](Android/r7.png)
+![r7](./Android/r7.png)
 
 ------
 
