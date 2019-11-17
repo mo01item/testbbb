@@ -1,11 +1,11 @@
 ---
-title: Android手机就使用上网工具下载及教程
+title: Android
 date: "2019-04-26"
 ---
 
 [点击下载使用](http://47.105.159.148/res/shadowsocksr-android-3.5.4.apk)(勿在微信中点入，请复制到浏览器打开)
 
-[备用链接](./shadowsocksr-android-3.5.4.apk)
+[备用链接](/shadowsocksr-android-3.5.4.apk)
 
 请花一分钟看一下下面教程，之后打开ssr App，选择从粘贴板导入方式添加。
 

@@ -1,5 +1,5 @@
 ---
-title: IOS9以上（iphone、Ipad ）手机就使用上网工具下载及教程
+title: IOS9以上（iphone、Ipad ）
 date: "2019-04-26"
 ---
 
@@ -18,4 +18,4 @@ date: "2019-04-26"
 
 **步骤如下:**
 
-![io1](io1.jpg)
+![io1](./io1.jpg)

@@ -19,11 +19,6 @@
   </url>
   
   <url>
-    <loc>/md/mac/</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/md/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -31,6 +26,11 @@
   
   <url>
     <loc>/md/pc/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/md/mac/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
   </url>
   

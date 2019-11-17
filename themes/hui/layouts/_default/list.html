@@ -10,7 +10,9 @@
     {{ range (where .Data.Pages "Section" "!=" "").GroupByDate "2006" }}
     {{ range .Pages }}
     <article class="archive-item">
+      <h3>
       <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
+      </h3>
     </article>
     {{ end }}
     {{ end }}

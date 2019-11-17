@@ -1,11 +1,11 @@
 ---
-title: MAC苹果电脑使用上网工具下载及教程
+title: macOS
 date: "2019-04-26"
 ---
 
 [点击下载使用](http://47.105.159.148/res/ShadowsocksX-NG-R8.dmg)
 
-[备用链接](./ShadowsocksX-NG-R8.dmg)
+[备用链接](/ShadowsocksX-NG-R8.dmg)
 
 请花一分钟看一下下面教程。
 软件绿色无病毒，请放心安装使用
