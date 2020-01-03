@@ -6,10 +6,19 @@
     <description>Recent content in Mds on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/md/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>软件使用说明</title>
+      <link>/md/v2/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/md/v2/</guid>
+      <description>点击下载解压按说明使用</description>
+    </item>
     
     <item>
       <title>Android</title>
